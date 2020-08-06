@@ -8,6 +8,7 @@
 1) Download reliably code from HTTP and FTP sources using a URL as input
 2) Download reliably code from version control systems (VCS) such as git, hg, svn in a pluggable way.
 3) Return information about a URL (possibly by making API calls). For instance, given a Git/GitHub/Gitlab/Bitbucket URL we should get details about the list of tags and versions. Or get details from a package using a PURL as an input by querying a package registry API.
+
 Repository: https://github.com/nexb/fetchcode
 
 My contributions: 
