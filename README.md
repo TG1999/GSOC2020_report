@@ -1,4 +1,4 @@
-# GSoC 2019 project, Fetchcode
+# GSoC 2020 project, Fetchcode
 
 ## Description
 
