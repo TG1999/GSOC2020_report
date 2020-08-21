@@ -12,8 +12,8 @@ My contributions:
 |-----------------------|-------------------|---------------------|
 | [#22](https://github.com/nexB/fetchcode/pull/22) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add support for downloading http and ftp urls |
 | [#30](https://github.com/nexB/fetchcode/pull/30) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add VCS Support |
-| [#31](https://github.com/nexB/fetchcode/pull/31) | ![Open](https://i.imgur.com/Mjp2nr7.jpg) | Add support for git URLs |
-| [#39](https://github.com/nexB/fetchcode/pull/39) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add package registry support |
+| [#31](https://github.com/nexB/fetchcode/pull/31) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add support for git URLs |
+| [#39](https://github.com/nexB/fetchcode/pull/39) | ![Open](https://i.imgur.com/Mjp2nr7.jpg) | Add package registry support |
 
 ### PackageURL:
 
