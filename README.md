@@ -24,8 +24,8 @@ My contributions:
 
 | PR       | Status             | Description          |
 |-----------------------|-------------------|---------------------|
-| [#39](https://github.com/package-url/packageurl-python/pull/34) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add support converting PURLs to URLs |
-| [#34](https://github.com/package-url/packageurl-python/pull/39) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add support for github and BitBucket URLs  |
+| [#39](https://github.com/package-url/packageurl-python/pull/39) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add support converting PURLs to URLs |
+| [#34](https://github.com/package-url/packageurl-python/pull/34) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add support for github and BitBucket URLs  |
 
 Repository: https://github.com/package-url/packageurl-python/
 
