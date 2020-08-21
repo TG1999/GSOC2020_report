@@ -1,18 +1,21 @@
-# GSoC 2020 project, Fetchcode
-
-## Description
-
-## Code
-
-### Fetchcode:
+# Google Summer of Code 2020 Final Report
+## Organization - [Aboutcode](https://www.aboutcode.org/)
+### Project -Fetchcode: A smart Code downloader
+[Fetchcode](https://github.com/nexB/fetchcode)
 1) Download reliably code from HTTP and FTP sources using a URL as input
 2) Download reliably code from version control systems (VCS) such as git, hg, svn in a pluggable way.
-3) Return information about a URL (possibly by making API calls). For instance, given a Git/GitHub/Gitlab/Bitbucket URL we should get details about the list of tags and versions. Or get details from a package using a PURL as an input by querying a package registry API.
+3) Return information about a URL (possibly by making API calls). For instance, given a Git/GitHub/Bitbucket/Npm/Pypi/Cargo/Rubygems URL we should get details about the list of tags and versions. Or get details from a package using a PURL as an input by querying a package registry API.
 
 Repository: https://github.com/nexb/fetchcode
 
 My contributions: 
 
+| PR       | Status             | Description          |
+|-----------------------|-------------------|---------------------|
+| [#22](https://github.com/nexB/fetchcode/pull/22) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add support for downloading http and ftp urls |
+| [#30](https://github.com/nexB/fetchcode/pull/30) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add VCS Support |
+| [#31](https://github.com/nexB/fetchcode/pull/31) | ![Open](https://i.imgur.com/Mjp2nr7.jpg) | Add support for git URLs |
+| [#39](https://github.com/nexB/fetchcode/pull/39) | ![Merged](https://i.imgur.com/YnDnRzm.jpg) | Add package registry support |
 
 ### PackageURL:
 
@@ -22,3 +25,6 @@ My contributions:
 Repository: https://github.com/package-url/packageurl-python/
 
 Project link on pypa : https://pypi.org/project/packageurl-python/
+
+
+I want to thank Google and Aboutcode for giving me this opportunity to work with such an amazing community. I am blessed to have mentors ([Philippe Ombredanne](https://github.com/pombredanne) and [Steven Esser](https://github.com/majurg)) for helping me throughout the summer and help me to learn how to write production level code!
